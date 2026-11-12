@@ -1,0 +1,17 @@
+{
+  "name": "ECHO – THE WORLD REMEMBERS",
+  "short_name": "ECHO",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait-primary",
+  "background_color": "#060a12",
+  "theme_color": "#00f5d4",
+  "description": "A mystical 3D third-person adventure and exploration game across the Forgotten Island.",
+  "icons": [
+    {
+      "src": "/public/assets/aistudio/900555379_1478156927556307_6539741191511944864_n_9ff5ae9c.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
